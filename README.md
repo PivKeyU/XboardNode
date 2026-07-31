@@ -1,6 +1,6 @@
 # XboardNode User Monitor
 
-XBoard-Node `v1.13-user-monitor.1` 一键安装与升级脚本，适用于 Linux x86_64、
+XBoard-Node `v1.13-user-monitor.2` 一键安装与升级脚本，适用于 Linux x86_64、
 machine 模式和 sing-box 节点。
 
 ## 首次安装
@@ -36,7 +36,7 @@ xbctl status
 预期版本：
 
 ```text
-xboard-node v1.13-user-monitor.1
+xboard-node v1.13-user-monitor.2
 ```
 
 当前发布包只支持 Linux x86_64/amd64。不要把真实令牌提交到仓库、工单或公开聊天。

@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 set -Eeuo pipefail
 
-CUSTOM_VERSION="v1.13-user-monitor.1"
-CUSTOM_SHA256="c3c038b5784f7ec4664ba56f6400b9860dd0904fc683aef99c6deb13e3e77b30"
-DEFAULT_BINARY_URL="https://github.com/PivKeyU/XboardNode/releases/download/v1.13-user-monitor.1/xboard-node-user-monitor-linux-amd64"
+CUSTOM_VERSION="v1.13-user-monitor.2"
+CUSTOM_SHA256="2dca3f5ce7d15e4c1a3fa49388b68d83a65665a960ed596016ce17614fe59102"
+DEFAULT_BINARY_URL="https://github.com/PivKeyU/XboardNode/releases/download/v1.13-user-monitor.2/xboard-node-user-monitor-linux-amd64"
 UNCONFIGURED_BINARY_URL="__XBOARD_"USER_MONITOR_BINARY_URL__
 OFFICIAL_INSTALLER_URL="https://raw.githubusercontent.com/cedar2025/xboard-node/0a29338e1f102a462363ce3527417029f89bab28/install.sh"
 OFFICIAL_INSTALLER_SHA256="5473e11af436e0aa3651dd5d465dbdf52eedaf5a1ec6ef90ca3c74016ef26423"
